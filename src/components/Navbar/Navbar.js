@@ -48,13 +48,13 @@ function Navbar () {
             </li>
 
             <li className="nav-item">
-              <Link to="/" className="nav-links" onClick={closeMenu}>
+              <Link to="/service" className="nav-links" onClick={closeMenu}>
                 Services
               </Link>
             </li>
 
             <li className="nav-item">
-              <Link to="/" className="nav-links" onClick={closeMenu}>
+              <Link to="/product" className="nav-links" onClick={closeMenu}>
                 Products
               </Link>
             </li>
