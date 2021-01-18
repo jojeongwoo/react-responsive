@@ -36,7 +36,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "webpack": "^5.15.0"
-  }
+  "devDependencies": {}
 }
